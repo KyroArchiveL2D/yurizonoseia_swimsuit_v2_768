@@ -1,6 +1,6 @@
 const AUDIO_PATHS = [
     // File BGM yang disebutkan
-    'BGM.wav', 
+    'Bgm.wav', 
     // File taunt dari AnimationsTexts di loadJson.json
     'CH0295_MemorialLobby_1_1.wav',
     'CH0295_MemorialLobby_1_2.wav',
