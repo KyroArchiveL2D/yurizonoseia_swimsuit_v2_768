@@ -51491,7 +51491,7 @@ void main(void){
             I(e.value.textSize),
             V(),
             (u.angle = e.value.angle),
-            (f.src = "BGM.wav"),
+            (f.src = "Bgm.wav"),
             (f.volume = e.value.bgmVolume),
             (d.volume = e.value.talkVolume);
           try {
